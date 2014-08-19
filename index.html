@@ -1,0 +1,17 @@
+---
+
+layout:     default
+title:      Matt Hanley
+type:       home
+navigation: true
+image:      header-1.jpg
+excerpt:    Infrastructure Engineer at <b>Eloquent Technologies</b>. Spare time hacker on <i>Laravel</i> and <i>Arch Linux</i>; student of <i>Networking</i> and <i>InfoSec</i>.
+gradient:   1
+
+---
+
+{% for post in paginator.posts %}
+
+  {% include summary.html %}
+  
+{% endfor %}

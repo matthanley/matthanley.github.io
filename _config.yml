@@ -1,0 +1,21 @@
+# Site Settings
+baseurl: 		""
+title: 			Matt Hanley
+
+name: 			<i>Matt</i> Hanley
+#description: 	A beautifully contemporary and elegant Jekyll theme
+#url: 			"http://localhost:4000"
+
+paginate: 		3
+paginate_path: 	"blog/page:num"
+
+twitter: 		_matthanley
+email: 			hello@mjh.mx
+
+#disqus: 		your_disqus_shortname
+#analytics: 		UA-XXXXXXX-Y
+
+copyright: 		Copyright 2014 Matt Hanley
+
+# Build Settings
+permalinks: 	pretty
