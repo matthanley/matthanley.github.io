@@ -325,7 +325,7 @@ body > header {
     .content article header .overlay {
         width: 100%;
         height: 700px;
-        opacity: 0.15;
+        opacity: 0.45;
         background-repeat: no-repeat;
         background-position: 50% 0;
         background-size: cover;
@@ -336,14 +336,15 @@ body > header {
         -moz-transition: opacity 0.35s ease-in-out;
         -o-transition: opacity 0.35s ease-in-out;
         transition: opacity 0.35s ease-in-out; }
-
+/*
 .content article header:hover .overlay {
-    opacity: 1;
+    opacity: 0.6;
     -webkit-filter: saturate(100%);
     -moz-filter: saturate(100%);
     -o-filter: saturate(100%); }
-
+*/
 .content article header .excerpt {
+    opacity: 0.8;
     width: 634px;
     position: absolute;
     bottom: 95px;
@@ -372,15 +373,20 @@ body > header {
     .content article header .excerpt .meta { font-size: 0.875rem }
 
 .content article header:hover .excerpt {
-    opacity: 0.65;
-    -webkit-transform: translate3d(0, 12px, 0);
+    opacity: 1;
+    /*-webkit-transform: translate3d(0, 12px, 0);
     -moz-transform: translate3d(0, 12px, 0);
     -o-transform: translate3d(0, 12px, 0);
-    transform: translate3d(0, 12px, 0);
+    transform: translate3d(0, 12px, 0);*/
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out;
     transition: all 0.4s ease-in-out; }
+
+.content article header:hover .excerpt h1 a {
+    opacity: 1; }
+.content article header .excerpt h1 a:hover:after {
+    content: " \2190" }
 
 .content article header .scroll {
     display: none;
