@@ -25,7 +25,7 @@
 			<p>{{ teaser.excerpt | remove: '<p>' | remove: '</p>' }}</p>
 
 			{% if teaser.date or teaser.categories %}
-				<span class="meta">Published {{ teaser.date | date: '%b %-d, %Y' | prepend: '<b>' | append: '</b>' }} {{ teaser.categories | join: ', ' | prepend: 'in <b>' | append: '</b>' }}</span>
+				<span class="meta">Published {{ teaser.date | date: '%b %-d, %Y' | prepend: '<b>' | append: '</b>' }} {{ teaser.categories | join: ', ' | prepend: '| <b>' | append: '</b>' }}</span>
 			{% endif %}
 
 		</div>
