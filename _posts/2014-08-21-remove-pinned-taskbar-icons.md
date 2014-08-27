@@ -5,7 +5,7 @@ title:  		Hide Pinned Taskbar Icons for RDS Server
 type:			post
 navigation: 	false
 
-date:   		2014-05-21
+date:   		2014-08-21
 excerpt: 		Remove pinned taskbar icons via local Group Policy
 gradient: 		4
 image: 			header-4.jpg
