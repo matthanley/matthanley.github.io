@@ -54,8 +54,9 @@ IT Support Engineer, __Eloquent Technologies Limited__
 * Hosted network solutions
 * MPLS
 * VOIP
+* Software development
 
-2010 &rarr; Present  
+2010 &rarr; 2014  
 Director, __Fluid Technology Solutions Ltd__
 
 * Web design
@@ -63,7 +64,9 @@ Director, __Fluid Technology Solutions Ltd__
 * `Web hosting`
 * `Two Factor Authentication` consultancy
 * `Infrastructure` consultancy &amp; support
+<!---
 * Lead developer: [dkrm][]
+-->
 
 2013 &rarr; Present  
 Systems Analyst, __AgustaWestland Ltd__
