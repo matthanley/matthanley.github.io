@@ -56,16 +56,7 @@ IT Support Engineer, __Eloquent Technologies Limited__
 * VOIP
 * Software development
 
-2010 &rarr; 2014  
-Director, __Fluid Technology Solutions Ltd__
-
-* Web design
-* PHP web development
-* `Web hosting`
-* `Two Factor Authentication` consultancy
-* `Infrastructure` consultancy &amp; support
-
-2013 &rarr; Present  
+2013 &rarr; 2014  
 Systems Analyst, __AgustaWestland Ltd__
 
 * Multi-farm `SharePoint 2007 / WSS 3` + `SharePoint 2010` administration (5000+ users)
@@ -86,6 +77,15 @@ IT Technician, __Blueloop Ltd__
 * Disaster recovery
 * Network administration
 * Application development in `PHP` + `MySQL`, `VB.net` + `MSSQL`
+
+2010 &rarr; 2014  
+Director, __Fluid Technology Solutions Ltd__
+
+* Web design
+* PHP web development
+* `Web hosting`
+* `Two Factor Authentication` consultancy
+* `Infrastructure` consultancy &amp; support
 
 ## EDUCATION
 
