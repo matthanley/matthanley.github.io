@@ -64,9 +64,6 @@ Director, __Fluid Technology Solutions Ltd__
 * `Web hosting`
 * `Two Factor Authentication` consultancy
 * `Infrastructure` consultancy &amp; support
-<!---
-* Lead developer: [dkrm][]
--->
 
 2013 &rarr; Present  
 Systems Analyst, __AgustaWestland Ltd__
