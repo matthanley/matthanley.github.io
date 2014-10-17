@@ -62,6 +62,8 @@ Systems Analyst, __AgustaWestland Ltd__
 * Multi-farm `SharePoint 2007 / WSS 3` + `SharePoint 2010` administration (5000+ users)
 * Bespoke `SharePoint 2007 / WSS 3` + `SharePoint 2010` solutions (`C#`)
 * Web application design, development and maintenance (`PHP`, `ASP`)
+* Liaising with customers &amp; suppliers to identify issues / requirements
+* Dealing with Restricted data / List X
 
 2011 &rarr; 2013  
 IT Technician, __Blueloop Ltd__
@@ -72,7 +74,7 @@ IT Technician, __Blueloop Ltd__
 * Virtual infrastructure deployment (`VMware`, `Citrix XenServer`)
 * Development of `Asterisk`-based hosted `VoIP` service offering
 * Desktop deployment for Total UK Ltd
-* System implementation & administration (Windows Server, Linux)
+* System implementation &amp; administration (Windows Server, Linux)
 * Basic `security audits`
 * Disaster recovery
 * Network administration
