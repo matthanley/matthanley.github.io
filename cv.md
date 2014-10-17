@@ -5,7 +5,7 @@ title:  		Curriculum Vitæ
 type:			page
 navigation: 	true
 
-date:   		2014-08-20
+date:   		2014-10-17
 excerpt: 		"&raquo; Intrinsically Motivated Full Stack Hacker"
 gradient: 		2
 image: 			header-2.jpg
@@ -32,7 +32,8 @@ image: 			header-2.jpg
         * Methods of `encryption`
     * Virtualisation and Enterprise-level infrastructure (`VMware`, `XenServer`, `Amazon AWS`)
     * Hardware (diagnostics, `RAID` etc)
-* Good working knowledge of `HTML`, `CSS` and JavaScript (`jQuery`)
+* Good working knowledge of `HTML`, `CSS` and JavaScript (`jQuery`, `angular.js`)
+* Experience building `responsive` web solutions
 * Proficient with `Adobe PhotoShop`
 
 ### Additional Experience
@@ -125,8 +126,5 @@ Excellent academic and professional references available.
 
 ---
 
-[View on GitHub](https://github.com/matthanley/cv) &rarr;
-
 [1]: https://www.owasp.org/index.php/Top_10_2013-Top_10
-[dkrm]: http://www.dkrm.io
 [2]: https://drive.google.com/file/d/0Bx1j3gs_sz6bem9zV09JSi1vc1BXQ2tSNDVxckxYT1JWdnVV/edit?usp=sharing
