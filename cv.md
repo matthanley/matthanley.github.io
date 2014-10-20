@@ -33,7 +33,7 @@ image: 			header-2.jpg
     * Virtualisation and Enterprise-level infrastructure (`VMware`, `XenServer`, `Amazon AWS`)
     * Hardware (diagnostics, `RAID` etc)
 * Good working knowledge of `HTML`, `CSS` and JavaScript (`jQuery`, `angular.js`)
-* Experience building `responsive` web solutions
+* Experience building `responsive` web solutions &amp; `APIs` (`REST` / `JSON`)
 * Proficient with `Adobe PhotoShop`
 
 ### Additional Experience
