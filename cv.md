@@ -99,7 +99,10 @@ __BSc (Hons) Mathematics__, University of Bath
 __A-Levels__, Truro College  
 `Computing` `Mathematics` `Physics` `Design Technology` `Further Mathematics`
 
-## TRAINING
+## TRAINING &amp; CERTIFICATIONS
+
+November 2014
+__VMware VOP-CP (Cloud Provider)__, [VMware][3]
 
 October 2013  
 __Introduction to SAP Mobile Solution Development__, [openSAP][2]
@@ -128,3 +131,4 @@ Excellent academic and professional references available.
 
 [1]: https://www.owasp.org/index.php/Top_10_2013-Top_10
 [2]: https://drive.google.com/file/d/0Bx1j3gs_sz6bem9zV09JSi1vc1BXQ2tSNDVxckxYT1JWdnVV/edit?usp=sharing
+[3]: https://drive.google.com/open?id=0Bx1j3gs_sz6bYTBuSlBEUWpZYzg&authuser=0
