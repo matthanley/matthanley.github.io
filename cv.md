@@ -101,7 +101,7 @@ __A-Levels__, Truro College
 
 ## TRAINING &amp; CERTIFICATIONS
 
-November 2014
+November 2014  
 __VMware VOP-CP (Cloud Provider)__, [VMware][3]
 
 October 2013  
