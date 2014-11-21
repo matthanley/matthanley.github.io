@@ -102,6 +102,7 @@ __A-Levels__, Truro College
 ## TRAINING &amp; CERTIFICATIONS
 
 November 2014  
+__VMware VTSP 5.5__, [VMware][4]  
 __VMware VOP-CP (Cloud Provider)__, [VMware][3]
 
 October 2013  
@@ -129,6 +130,9 @@ Excellent academic and professional references available.
 
 ---
 
+<img width="387" height="50" src="/images/vtsp.png" alt="VMware VTSP" />
+
 [1]: https://www.owasp.org/index.php/Top_10_2013-Top_10
 [2]: https://drive.google.com/file/d/0Bx1j3gs_sz6bem9zV09JSi1vc1BXQ2tSNDVxckxYT1JWdnVV/edit?usp=sharing
 [3]: https://drive.google.com/open?id=0Bx1j3gs_sz6bYTBuSlBEUWpZYzg&authuser=0
+[4]: https://drive.google.com/open?id=0Bx1j3gs_sz6bZlJ2OWZuMlB1ZW8&authuser=0
