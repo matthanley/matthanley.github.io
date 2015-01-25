@@ -34,6 +34,7 @@ image: 			header-2.jpg
     * Hardware (diagnostics, `RAID` etc)
 * Good working knowledge of `HTML`, `CSS` and JavaScript (`jQuery`, `angular.js`)
 * Experience building `responsive` web solutions &amp; `APIs` (`REST` / `JSON`)
+* Deployment experience with `puppet`
 * Proficient with `Adobe PhotoShop`
 
 ### Additional Experience
