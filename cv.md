@@ -16,7 +16,9 @@ image: 			header-2.jpg
 
 ## PROFESSIONAL SKILLS
 
+* Specialist in `git` and `puppet` based application deployment and infrastructure configuration
 * Strong `PHP` development skills including `Object-Oriented` and `MVC` experience - especially `Laravel`
+* `Cisco` switch and router configuration
 * Excellent `Linux` management skills (`Arch`, `CentOS / RHEL`, `Debian`, `Ubuntu`, `Gentoo`)
 * Comfortable with both `SVN` and `git` version control systems
 * Experience configuring and managing a wide variety of server solutions on various platforms:
@@ -31,10 +33,10 @@ image: 			header-2.jpg
         * Methods for prevention of common attacks
         * Methods of `encryption`
     * Virtualisation and Enterprise-level infrastructure (`VMware`, `XenServer`, `Amazon AWS`)
+    * `Zerto` and `Veeam` VMware replication and backup solutions
     * Hardware (diagnostics, `RAID` etc)
 * Good working knowledge of `HTML`, `CSS` and JavaScript (`jQuery`, `angular.js`)
 * Experience building `responsive` web solutions &amp; `APIs` (`REST` / `JSON`)
-* Deployment experience with `puppet`
 * Proficient with `Adobe PhotoShop`
 
 ### Additional Experience
@@ -50,7 +52,7 @@ image: 			header-2.jpg
 ## EMPLOYMENT
 
 2014 &rarr; Present  
-IT Support Engineer, __Eloquent Technologies Limited__
+Senior Engineer, __Eloquent Technologies Limited__
 
 * Infrastructure design and management
 * Hosted network solutions
